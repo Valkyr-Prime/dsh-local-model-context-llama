@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Local model context",
+    "description": "Under Settings → Local models, lists the models DSH points at on this machine (the llama.app router) with each model's supported context sizes and estimated VRAM, then applies the chosen window to llama.app (rewrites its presets, hot-reloads the router, unloads the model) and to DSH's contextWindow for that model."
+  }
+}

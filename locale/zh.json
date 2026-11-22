@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "本地模型上下文",
+    "description": "在设置 → 本地模型里列出 DSH 指向本机的模型（llama.app 路由），显示每个模型支持的上下文档位与对应显存估算，并把你选中的窗口同时应用到 llama.app（改写预设、热重载路由、卸载模型）和 DSH 模型表的 contextWindow。"
+  }
+}

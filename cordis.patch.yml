@@ -1,0 +1,5 @@
+# Local model context sizes: a Host route (snapshot + apply), a model-facing tool,
+# and the Local models settings page registered by this bundle's client half.
+- insert:
+    - id: local-model-context
+      name: dsh-local-model-context-llama

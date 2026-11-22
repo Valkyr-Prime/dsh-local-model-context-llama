@@ -1,0 +1,15 @@
+# Runtime and local state created by the plugin or by tests
+node_modules/
+.test-sandbox/
+*.log
+
+# Packed artifacts and local npm credentials must never be committed
+*.tgz
+.npmrc
+.env
+.env.*
+
+# Local scratch files
+tmp/
+.DS_Store
+Thumbs.db

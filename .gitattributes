@@ -1,0 +1,3 @@
+# Keep the repository and checkouts byte-identical so the prebuilt client bundle
+# and the Host modules are the same files everywhere.
+* text=auto eol=lf
